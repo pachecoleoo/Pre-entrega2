@@ -1,0 +1,43 @@
+*{padding: 0%;
+box-sizing: border-box;
+margin: 0%;}
+
+body {background-color: white;}
+.parrafo{padding: 3rem;
+text-align: justify;
+line-height: 35px;
+font-size: 1.2rem;
+text-indent: 25px;}
+
+h2{text-align:left;
+padding: 2rem;
+margin: 1rem;
+font-family: 'Readex Pro', sans-serif;}
+
+
+.flecha{color:#116d4e ; width: 70px; height: 3rem;}
+
+h1{padding: 3rem; padding-bottom: 0%;
+font-family: 'Readex Pro', sans-serif;
+margin: 1rem;
+text-align: left;}
+
+h5{padding: 3rem; padding-top: 0%;
+    margin: 1rem;
+    text-align: left;
+text-align: justify;}
+    
+.titulo{color:darkcyan}
+
+.texto{text-align: justify;
+padding: 3rem;
+padding-top: 0%;
+text-indent: 25px;
+font-size: 1rem;}
+
+.azul{ color: darkcyan;}
+.rosa{color: palevioletred;}
+
+body {
+    background-color: rgb(187, 187, 187);}
+
